@@ -459,7 +459,7 @@
         s =
           null !== (r = a.env.NEXT_PUBLIC_EXPLORER_URL) && void 0 !== r
             ? r
-            : "https://explorer.imd.fun",
+            : "https://explorer.identitymd.fun",
         o = (e) => "".concat(s).concat(e);
       function c(e) {
         try {
