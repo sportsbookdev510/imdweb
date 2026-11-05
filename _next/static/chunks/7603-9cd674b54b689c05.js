@@ -42,7 +42,7 @@
             token: "0xFF0C532FDB8Cd566Ae169C1CB157ff2Bdc83E105",
             oftAdapter: "0xab152db8aaC047b6757fFCF495FfE88d7712690A",
           },
-          mainnet: { oft: "0xComingSoon" },
+          mainnet: { oft: "0x2fb42c711da7a92e11402d7ac64fd6ea136a9ee4" },
           robinhood: { oft: "0x5F7Bb59365ce557C26dbcAa4EE9d39A4b95B7127" },
         },
         u =
